@@ -16,7 +16,7 @@
 
 /* 
     split() - Converte uma string em uma array
-    map() - mapeia cada elemento de um elemento
+    map() - mapeia cada elemento de um array
     slice() - Seleciona os elementos de um array
     join() - Converte um array em uma string
 */
